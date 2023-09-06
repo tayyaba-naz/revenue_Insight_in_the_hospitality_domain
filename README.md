@@ -1,2 +1,7 @@
-# revenue_Insight_in_the_hospitality_domain
-Atliq Grands saw market share and revenue drop recently. To understand why, I made a Power BI dashboard using 3 months of data. It gave the Revenue team insights. Now, aiming to bounce back with a 20% boost in revenue and market share soon.
+# Revenue Insight in Hospitality Domain
+
+## Summary
+
+Atliq Grands identified a loss in both market share and revenue over recent months. To diagnose the root causes of these setbacks, a data analysis solution was essential. I developed a comprehensive Power BI dashboard, leveraging three months' worth of data. The resulting dashboard empowered the Revenue team at Atliq Grands with valuable insights into their revenue trends, setting the stage for potential recovery. Through strategic actions informed by these insights, they aim to achieve a substantial 20% increase in both revenue and market share in the coming months.
+
+
